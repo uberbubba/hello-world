@@ -1,0 +1,98 @@
+Github command line toot:
+
+Press enter to submit commands
+
+> git init
+
+$ git status
+
+$ git status
+
+git status
+git status
+
+$ git status
+
+$ git add octocat.txt
+
+$ git status
+
+$ git commit -m "Add cute octocat story"
+
+$ git commit -m "Add cute octocat story"
+
+$ ls
+
+$ git add '*.txt'
+
+$ git status
+
+$ git commit -m "Wow."
+
+$ git log
+
+$ git remote add origin https://github.com/try-git/try_git.git
+
+$ git status
+
+$ git push -u origin master
+
+$ git pull origin master
+
+$ git diff HEAD
+
+$ git add octofamily/octodog.txt
+
+$ git add octofamily/octodog.txt
+
+$ git diff --staged
+
+$ git reset octofamily/octodog.txt
+
+$ ls
+
+$ ls octofamily
+
+$ ls octofamily/
+
+$ git checkout -- octocat.txt
+
+$ git branch clean_up
+$ git branch clean_up
+
+$ git checkout -- octocat.txt
+
+$ git branch clean_up
+
+$ ls
+
+$ git branch
+$ git branch
+
+$ git branch
+
+$ git checkout clean_up
+
+$ ls
+
+$ git rm '*.txt'
+
+$ ls
+
+$ git commit -m "blah" 
+
+$ git checkout master
+
+$ ls
+
+$ git merge clean_up
+
+$ ls
+
+$ git branch -d clean_up
+
+$ git push
+
+> git log
+
+> 
